@@ -1,0 +1,127 @@
+patient;date;category;parameter;value;smth;smth1
+263;2013-03-18;CT;radiologicalFindings_CT;CT
+263;2013-03-18;CT;preview;
+263;2013-03-28;lab_findings;isolate_source;homosapiens
+263;2013-03-28;lab_findings;smear_result;1
+263;2013-03-28;lab_findings;smear_score;1-9 unit at 100 field
+263;2013-03-28;lab_findings;culture_result;1
+263;2013-03-28;lab_findings;culture_score;singlecolonies
+263;2013-03-28;lab_findings;was_cultured_from_sample;sputum
+263;2013-03-28;lab_findings;method_of_identification;biochemistry
+263;2013-03-28;lab_findings;isolate_id;4810
+263;2013-05-13;X-RAY;radiologicalFindings_X-RAY;X-RAY
+263;2013-05-13;X-RAY;preview;
+263;2013-05-15;demographics;date_of_birth;1976-07-09
+263;2013-05-15;demographics;gender;male
+263;2013-05-15;demographics;birth_address_country;belarus
+263;2013-05-15;demographics;clinical_record_id;0263
+263;2013-05-15;followup;co_morbidity;1
+263;2013-05-15;followup;diagnosis;infiltrative
+263;2013-05-15;followup;height_cm;178
+263;2013-05-15;followup;weight_cm;62
+263;2013-05-15;followup;disability_level;2
+263;2013-05-15;followup;symptoms_of_tb;1
+263;2013-05-15;followup;result_of_previous_treatment;relapse
+263;2013-05-15;followup;education;college (bachelor)
+263;2013-05-15;followup;habitation;private house
+263;2013-05-15;followup;low_paid_work_abroad;0
+263;2013-05-15;followup;ex_prisoner;0
+263;2013-05-15;followup;lifestyle_alcoholic;0
+263;2013-05-15;followup;lifestyle_addict;0
+263;2013-05-15;followup;lifestyle_smoking;1
+263;2013-05-15;followup;job;employment
+263;2013-05-15;followup;number_of_residents;7
+263;2013-05-15;followup;hiv;-1
+263;2013-05-15;followup;art;0
+263;2013-05-15;followup;type_of_drug_resistance;mdr non xdr
+263;2013-05-15;drug_resistance_bactec_test;bactec_test_is_performed;0
+263;2013-05-15;drug_resistance_bactec_test;bactec_test_culture;0
+263;2013-05-15;drug_resistance_bactec_test;bactec_test_h;0
+263;2013-05-15;drug_resistance_bactec_test;bactec_test_ofl;0
+263;2013-05-15;drug_resistance_bactec_test;bactec_test_z;0
+263;2013-05-15;drug_resistance_bactec_test;bactec_test_pto;0
+263;2013-05-15;drug_resistance_bactec_test;bactec_test_r;0
+263;2013-05-15;drug_resistance_bactec_test;bactec_test_cm;0
+263;2013-05-15;drug_resistance_bactec_test;bactec_test_lfx;0
+263;2013-05-15;drug_resistance_bactec_test;bactec_test_cs;0
+263;2013-05-15;drug_resistance_bactec_test;bactec_test_s;0
+263;2013-05-15;drug_resistance_bactec_test;bactec_test_am;0
+263;2013-05-15;drug_resistance_bactec_test;bactec_test_mfx;0
+263;2013-05-15;drug_resistance_bactec_test;bactec_test_amx_clv;0
+263;2013-05-15;drug_resistance_bactec_test;bactec_test_e;0
+263;2013-05-15;drug_resistance_bactec_test;bactec_test_km;0
+263;2013-05-15;drug_resistance_bactec_test;bactec_test_pas;0
+263;2013-05-15;drug_resistance_bactec_test;bactec_test_h2;0
+263;2013-05-15;drug_resistance_hain_test;hain_test_is_performed;0
+263;2013-05-15;drug_resistance_hain_test;hain_test_culture;0
+263;2013-05-15;drug_resistance_hain_test;hain_test_h;0
+263;2013-05-15;drug_resistance_hain_test;hain_test_ft;0
+263;2013-05-15;drug_resistance_hain_test;hain_test_r;0
+263;2013-05-15;drug_resistance_hain_test;hain_test_agcp;0
+263;2013-05-15;drug_resistance_hain_test;hain_test_e;0
+263;2013-05-15;drug_resistance_gene_test;gene_test_is_performed;0
+263;2013-05-15;drug_resistance_gene_test;gene_test_culture;0
+263;2013-05-15;drug_resistance_gene_test;gene_test_r;0
+263;2013-05-15;radiology_protocol;accumulation_of_contrast;0
+263;2013-05-15;radiology_protocol;affect_level;upper and lower lobes
+263;2013-05-15;radiology_protocol;affect_pleura;1
+263;2013-05-15;radiology_protocol;affected_segments;s1-6
+263;2013-05-15;radiology_protocol;anomaly_development_of_mediastinum_vessels;0
+263;2013-05-15;radiology_protocol;anomaly_of_lung_develop;0
+263;2013-05-15;radiology_protocol;bronchial_obstruction;0
+263;2013-05-15;radiology_protocol;dissemination;0
+263;2013-05-15;radiology_protocol;lung_capacity_decrease;1
+263;2013-05-15;radiology_protocol;lung_cavity_size;less than 10 mm
+263;2013-05-15;radiology_protocol;lymphoadenopatia;0
+263;2013-05-15;radiology_protocol;no_of_cavities;more than 2
+263;2013-05-15;radiology_protocol;nodi_calcinatum;0
+263;2013-05-15;radiology_protocol;plevritis;0
+263;2013-05-15;radiology_protocol;pneumothorax;0
+263;2013-05-15;radiology_protocol;post_tb_residuals;0
+263;2013-05-15;radiology_protocol;process_prevalence;more than or equal to 2 segments
+263;2013-05-15;radiology_protocol;shadow_pattern;focal(s) + focus(es) + infiltrate(s)
+263;2013-05-15;radiology_protocol;side_of_process;right lung
+263;2013-05-15;radiology_protocol;thromboembolism_of_the_pulmonary_artery;0
+263;2013-05-16;treatment;treatment_regimen_am;notinclude
+263;2013-05-16;treatment;treatment_regimen_amx_clv;notinclude
+263;2013-05-16;treatment;treatment_regimen_cm;include
+263;2013-05-16;treatment;treatment_regimen_cs;include
+263;2013-05-16;treatment;treatment_regimen_e;notinclude
+263;2013-05-16;treatment;treatment_regimen_h;notinclude
+263;2013-05-16;treatment;treatment_regimen_lfx;include
+263;2013-05-16;treatment;treatment_regimen_lzd;notinclude
+263;2013-05-16;treatment;treatment_regimen_mfx;notinclude
+263;2013-05-16;treatment;treatment_regimen_ofx;notinclude
+263;2013-05-16;treatment;treatment_regimen_pas;include
+263;2013-05-16;treatment;treatment_regimen_pto;include
+263;2013-05-16;treatment;treatment_regimen_r;notinclude
+263;2013-05-16;treatment;treatment_regimen_s;notinclude
+263;2013-05-16;treatment;treatment_regimen_z;include
+263;2013-05-16;treatment;treatment_regimen_km;notinclude
+263;2013-05-16;treatment;treatment_end_date;2015-02-04
+263;2013-05-16;treatment;treatment_result;successful
+263;2013-05-16;treatment;result_of_previous_treatment;relapse
+263;2013-05-16;treatment;surgery_treatment;0
+263;2013-05-16;treatment;msc_treatment;0
+263;2013-05-16;treatment;treatment_regimen_cotrimoxazol;notinclude
+263;2013-05-27;drug_resistance;drug_susceptibility_testing_am;0
+263;2013-05-27;drug_resistance;drug_susceptibility_testing_amx_clv;0
+263;2013-05-27;drug_resistance;drug_susceptibility_testing_cm;resistant
+263;2013-05-27;drug_resistance;drug_susceptibility_testing_cs;0
+263;2013-05-27;drug_resistance;drug_susceptibility_testing_e;sensitive
+263;2013-05-27;drug_resistance;drug_susceptibility_testing_h;sensitive
+263;2013-05-27;drug_resistance;drug_susceptibility_testing_km;resistant
+263;2013-05-27;drug_resistance;drug_susceptibility_testing_lfx;resistant
+263;2013-05-27;drug_resistance;drug_susceptibility_testing_mb;sensitive
+263;2013-05-27;drug_resistance;drug_susceptibility_testing_mfx;0
+263;2013-05-27;drug_resistance;drug_susceptibility_testing_ofx;0
+263;2013-05-27;drug_resistance;drug_susceptibility_testing_pas;0
+263;2013-05-27;drug_resistance;drug_susceptibility_testing_pto;0
+263;2013-05-27;drug_resistance;drug_susceptibility_testing_r;sensitive
+263;2013-05-27;drug_resistance;drug_susceptibility_testing_s;sensitive
+263;2013-05-27;drug_resistance;drug_susceptibility_testing_z;sensitive
+263;2013-05-27;drug_resistance;type_of_drug_resistance;mdr non xdr
+263;2013-07-11;X-RAY;radiologicalFindings_X-RAY;X-RAY
+263;2013-07-11;X-RAY;preview;
+263;2013-09-12;X-RAY;radiologicalFindings_X-RAY;X-RAY
+263;2013-09-12;X-RAY;preview;
